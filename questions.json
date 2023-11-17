@@ -1,0 +1,76 @@
+
+[
+    {
+      "question": "What is the speed of light",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Question 1",
+      "subject": "Math",
+      "topic": "Algebra",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Question 2",
+      "subject": "Physics",
+      "topic": "Optics",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Question 3",
+      "subject": "Chemistry",
+      "topic": "Organic",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+
+  {
+    "question": "What is the speed of light",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Question 1",
+    "subject": "Math",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Question 2",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Question 3",
+    "subject": "Chemistry",
+    "topic": "Organic",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+
+  {
+    "question": "New Question 1",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "New Question 2",
+    "subject": "Computer Science",
+    "topic": "Algorithms",
+    "difficulty": "Medium",
+    "marks": 9
+  }
+ 
+]
